@@ -1,0 +1,4 @@
+501,Ionel,Pascu,pascu.ionel89@gmail.com,ionel501,ioniepure
+502,Maria,Croitor,croitor_maria@gmail.com,maria502,marmaria
+503,Petre,Savu,petresavu56@yahoo.com,petre503,petrica345
+504,Alex,Avram,alx.avr5@yahoo.com,alex504,alxalx

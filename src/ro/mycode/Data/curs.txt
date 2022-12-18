@@ -1,0 +1,6 @@
+101,Geometrie,Matematica
+102,Algebra,Matematica
+103,Geodezie,Geologie
+104,Crochiuri,Pictura
+105,Moda,ArtaDecorativa
+106,Model,Pictura
